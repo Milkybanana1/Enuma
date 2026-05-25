@@ -5,7 +5,9 @@ A cognitive memory layer for AI agents with importance propagation, time decay, 
 ## Install
 
 ```bash
-pip install enuma
+git clone https://github.com/Milkybanana1/enuma.git
+cd enuma
+pip install -e .
 ```
 
 ## Usage
